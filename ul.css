@@ -1,0 +1,44 @@
+.layout{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+
+}
+.space-btw{
+    justify-content: space-between;
+}
+.aling-item{
+    align-items: center;
+
+}
+.justify-content{
+    justify-content: center;
+}
+.f-w-500{
+    font-weight: 500;
+}
+.f-w-600{
+    font-weight: 600;
+}
+.f-w-700{
+    font-weight: 700;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.letter-spacing2{
+    letter-spacing: 2px;
+}
+.btn{
+    width: 140px;
+}
+.flex2{
+    flex: 2;
+
+}
+.flex3{
+    flex: 3;
+}
